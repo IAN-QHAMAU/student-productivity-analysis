@@ -15,7 +15,6 @@ The project is based on `5,000` student records with `21` variables and focuses 
 
 ```text
 student/
-├── .gitignore
 ├── LICENSE
 ├── data/
 │   └── student_productivity_dataset.csv
