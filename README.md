@@ -71,8 +71,6 @@ plt.show()
 
 ```text
 student/
-├── .gitignore
-├── LICENSE
 ├── data/
 │   └── student_productivity_dataset.csv
 ├── notebooks/
@@ -81,6 +79,8 @@ student/
 │   ├── executive-summary.app.js
 │   ├── index.html
 │   └── student analysis.html
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
