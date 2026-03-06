@@ -28,17 +28,6 @@ student/
 └── README.md
 ```
 
-## Essence of `.gitignore`
-
-`.gitignore` tells Git which files should **not** be tracked in version control.
-
-For this project, it mainly protects your repository from:
-- virtual environment files (`venv/`)
-- notebook checkpoints (`.ipynb_checkpoints/`)
-- cache/build/log artifacts
-
-This keeps the repo clean, lightweight, and professional.
-
 ## Visualization Artifacts
 
 - **Interactive Executive Summary:** `visualizations/index.html`
