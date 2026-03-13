@@ -4,6 +4,10 @@ A clean, insight-focused analysis project that explores how study habits, wellne
 
 If you are new to this repository, start with **How to Run** and then open the notebook and executive summary in that order.
 
+## 🌐 Live Project Page
+
+Visit the published project here: [https://ian-qhamau.github.io/student-productivity-EDA/](https://ian-qhamau.github.io/student-productivity-EDA/)
+
 ## ✨ What This Project Delivers
 
 - **Notebook-driven EDA** with Python, Pandas, NumPy, Matplotlib, and Seaborn.
@@ -133,5 +137,5 @@ See `LICENSE` for full terms.
 ---
 
 **Author:** Ian Qhamau  
-**Repository:** `IAN-QHAMAU/student-productivity-analysis`
+**Repository:** `IAN-QHAMAU/student-productivity-EDA`
 
